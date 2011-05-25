@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>A76EF467-6D03-4E26-A547-EBB581287AA5</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>A76EF467-6D03-4E26-A547-EBB581287AA5</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>CE29A002-784A-43BD-85CC-B08C6A3B8A3A</string>
+					<string>BD08E030-BDC2-463C-8A01-167499DF46BE</string>
+					<string>5A82FFBE-BD25-4F8D-AAF7-C7A7167369BC</string>
+					<string>EB798B4D-74B6-4207-BAE3-47C24C651D00</string>
+				</array>
+				<key>name</key>
+				<string>PHP</string>
+			</dict>
+			<key>BD08E030-BDC2-463C-8A01-167499DF46BE</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>4FE3D8FA-6874-4379-A356-20799FE4D335</string>
+					<string>42741C13-2682-4C30-9A1D-A76BE9A02CB7</string>
+				</array>
+				<key>name</key>
+				<string>Log</string>
+			</dict>
+			<key>CE29A002-784A-43BD-85CC-B08C6A3B8A3A</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>817850EC-EDE4-4664-8B25-B85796FB9088</string>
+					<string>C876970C-BE4C-47B7-85F0-DECFA7A0514B</string>
+				</array>
+				<key>name</key>
+				<string>File Dummy</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>MySnippets</string>
+	<key>ordering</key>
+	<array>
+		<string>EB798B4D-74B6-4207-BAE3-47C24C651D00</string>
+		<string>5A82FFBE-BD25-4F8D-AAF7-C7A7167369BC</string>
+		<string>4FE3D8FA-6874-4379-A356-20799FE4D335</string>
+		<string>42741C13-2682-4C30-9A1D-A76BE9A02CB7</string>
+		<string>817850EC-EDE4-4664-8B25-B85796FB9088</string>
+		<string>C876970C-BE4C-47B7-85F0-DECFA7A0514B</string>
+	</array>
+	<key>uuid</key>
+	<string>F04F544E-61BD-4915-A16F-5A91195E4EFC</string>
+</dict>
+</plist>

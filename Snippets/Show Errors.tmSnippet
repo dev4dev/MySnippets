@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>error_reporting(E_ALL);
+ini_set('display_errors', 'On');</string>
+	<key>name</key>
+	<string>Show Errors</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>err</string>
+	<key>uuid</key>
+	<string>EB798B4D-74B6-4207-BAE3-47C24C651D00</string>
+</dict>
+</plist>

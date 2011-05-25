@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?${TM_PHP_OPEN_TAG:php} defined('SYSPATH') or die('No direct script access.');
+
+$0
+
+/**
+* end of file
+*/</string>
+	<key>name</key>
+	<string>&lt;?php … /*end of file*/ Kohana</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>phpk</string>
+	<key>uuid</key>
+	<string>C876970C-BE4C-47B7-85F0-DECFA7A0514B</string>
+</dict>
+</plist>
