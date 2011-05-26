@@ -10,10 +10,21 @@
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>69FED4CC-94A6-408A-97F7-75278443ABBC</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>37A65C3D-F466-4339-86CB-77FB4017946B</string>
+					<string>C8015A50-57AB-48D8-9E24-328C0EB308F7</string>
+				</array>
+				<key>name</key>
+				<string>Return</string>
+			</dict>
 			<key>A76EF467-6D03-4E26-A547-EBB581287AA5</key>
 			<dict>
 				<key>items</key>
 				<array>
+					<string>69FED4CC-94A6-408A-97F7-75278443ABBC</string>
 					<string>CE29A002-784A-43BD-85CC-B08C6A3B8A3A</string>
 					<string>BD08E030-BDC2-463C-8A01-167499DF46BE</string>
 					<string>5A82FFBE-BD25-4F8D-AAF7-C7A7167369BC</string>
@@ -48,6 +59,8 @@
 	<string>MySnippets</string>
 	<key>ordering</key>
 	<array>
+		<string>C8015A50-57AB-48D8-9E24-328C0EB308F7</string>
+		<string>37A65C3D-F466-4339-86CB-77FB4017946B</string>
 		<string>EB798B4D-74B6-4207-BAE3-47C24C651D00</string>
 		<string>5A82FFBE-BD25-4F8D-AAF7-C7A7167369BC</string>
 		<string>4FE3D8FA-6874-4379-A356-20799FE4D335</string>
