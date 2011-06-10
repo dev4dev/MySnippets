@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Request \$request, Response \$response</string>
+	<string>\$request, \$response</string>
 	<key>name</key>
-	<string>Controller Constructor Params w/T</string>
+	<string>Controller Constructor Params</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>$rrt</string>
+	<string>$rr</string>
 	<key>uuid</key>
-	<string>5A82FFBE-BD25-4F8D-AAF7-C7A7167369BC</string>
+	<string>F2B77169-698A-4F4E-9C29-294D3ECE05C3</string>
 </dict>
 </plist>
